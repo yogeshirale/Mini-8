@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Network</class>
+ <widget class="QDialog" name="Network">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1139</width>
+    <height>647</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QPushButton" name="pushButton_11">
+   <property name="geometry">
+    <rect>
+     <x>800</x>
+     <y>170</y>
+     <width>311</width>
+     <height>131</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../../Music/8/icon/network/skydrive.jpg</normaloff>../../Music/8/icon/network/skydrive.jpg</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>310</width>
+     <height>170</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_14">
+   <property name="geometry">
+    <rect>
+     <x>210</x>
+     <y>330</y>
+     <width>151</width>
+     <height>131</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../../Music/8/icon/network/paytm.png</normaloff>../../Music/8/icon/network/paytm.png</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>160</width>
+     <height>160</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_15">
+   <property name="geometry">
+    <rect>
+     <x>580</x>
+     <y>170</y>
+     <width>151</width>
+     <height>131</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../../Music/8/icon/network/twitter.png</normaloff>../../Music/8/icon/network/twitter.png</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>300</width>
+     <height>150</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_8">
+   <property name="geometry">
+    <rect>
+     <x>420</x>
+     <y>490</y>
+     <width>311</width>
+     <height>131</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../../Music/8/icon/network/toi.jpg</normaloff>../../Music/8/icon/network/toi.jpg</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>310</width>
+     <height>160</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_10">
+   <property name="geometry">
+    <rect>
+     <x>800</x>
+     <y>330</y>
+     <width>151</width>
+     <height>131</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../../Music/8/icon/network/wiki.jpg</normaloff>../../Music/8/icon/network/wiki.jpg</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>300</width>
+     <height>150</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_17">
+   <property name="geometry">
+    <rect>
+     <x>960</x>
+     <y>490</y>
+     <width>151</width>
+     <height>131</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../../Music/8/icon/network/clima.jpg</normaloff>../../Music/8/icon/network/clima.jpg</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>160</width>
+     <height>160</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_3">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>330</y>
+     <width>151</width>
+     <height>131</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../../Music/8/icon/network/google.jpg</normaloff>../../Music/8/icon/network/google.jpg</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>310</width>
+     <height>150</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_5">
+   <property name="geometry">
+    <rect>
+     <x>420</x>
+     <y>10</y>
+     <width>311</width>
+     <height>131</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../../Music/8/icon/network/internet expo.jpg</normaloff>../../Music/8/icon/network/internet expo.jpg</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>310</width>
+     <height>170</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>10</y>
+     <width>311</width>
+     <height>131</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../../Music/8/icon/network/netflix.jpg</normaloff>../../Music/8/icon/network/netflix.jpg</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>311</width>
+     <height>150</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_6">
+   <property name="geometry">
+    <rect>
+     <x>420</x>
+     <y>330</y>
+     <width>311</width>
+     <height>131</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../../Music/8/icon/network/Facebook-for-Windows-Phone-8-Update-Adds-Support-for-Multiple-Resolutions-Tile-Sizes-3.jpg</normaloff>../../Music/8/icon/network/Facebook-for-Windows-Phone-8-Update-Adds-Support-for-Multiple-Resolutions-Tile-Sizes-3.jpg</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>320</width>
+     <height>170</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_7">
+   <property name="geometry">
+    <rect>
+     <x>420</x>
+     <y>170</y>
+     <width>151</width>
+     <height>131</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../../Music/8/icon/network/Quora.png</normaloff>../../Music/8/icon/network/Quora.png</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>150</width>
+     <height>151</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_16">
+   <property name="geometry">
+    <rect>
+     <x>960</x>
+     <y>330</y>
+     <width>151</width>
+     <height>131</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../../Music/8/icon/network/engadget.png</normaloff>../../Music/8/icon/network/engadget.png</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>160</width>
+     <height>150</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_12">
+   <property name="geometry">
+    <rect>
+     <x>800</x>
+     <y>490</y>
+     <width>151</width>
+     <height>131</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../../Music/8/icon/network/amzon1.jpg</normaloff>../../Music/8/icon/network/amzon1.jpg</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>200</width>
+     <height>160</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_4">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>490</y>
+     <width>311</width>
+     <height>131</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../../Music/8/icon/network/store.png</normaloff>../../Music/8/icon/network/store.png</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>470</width>
+     <height>220</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_9">
+   <property name="geometry">
+    <rect>
+     <x>800</x>
+     <y>10</y>
+     <width>311</width>
+     <height>131</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../../Music/8/icon/network/flpkart.jpg</normaloff>../../Music/8/icon/network/flpkart.jpg</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>310</width>
+     <height>240</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_2">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>170</y>
+     <width>311</width>
+     <height>131</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../../Music/8/icon/network/gmail.png</normaloff>../../Music/8/icon/network/gmail.png</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>401</width>
+     <height>191</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QLabel" name="background1">
+   <property name="geometry">
+    <rect>
+     <x>-5</x>
+     <y>-4</y>
+     <width>1141</width>
+     <height>651</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <zorder>background1</zorder>
+  <zorder>pushButton_5</zorder>
+  <zorder>pushButton_11</zorder>
+  <zorder>pushButton_14</zorder>
+  <zorder>pushButton_15</zorder>
+  <zorder>pushButton_8</zorder>
+  <zorder>pushButton_10</zorder>
+  <zorder>pushButton_17</zorder>
+  <zorder>pushButton_3</zorder>
+  <zorder>pushButton</zorder>
+  <zorder>pushButton_6</zorder>
+  <zorder>pushButton_7</zorder>
+  <zorder>pushButton_16</zorder>
+  <zorder>pushButton_12</zorder>
+  <zorder>pushButton_4</zorder>
+  <zorder>pushButton_9</zorder>
+  <zorder>pushButton_2</zorder>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
